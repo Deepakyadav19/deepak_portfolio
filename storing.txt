@@ -1,4 +1,4 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Deepak Yadav</title>
@@ -195,7 +195,71 @@
       </div>
     </div> <!-- END .site-section -->
 
-<!--Portfolio Section-->
+
+    
+    <div class="site-section" id="portfolio-section">
+      <div class="container">
+        <div class="row mb-5 ">
+          <div class="col-md-8 section-title text-center mx-auto">
+            <span class="sub-title mb-2 d-block">Recent Works</span>
+            <h2 class="title text-primary mb-3">"Talk is cheap. Show me the code."</h2>
+          </div>
+        </div>
+        <div class="row mb-5">
+          <div class="col-lg-6 mb-4 mb-lg-0">
+            <img src="images/genart/1.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/genart/2.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/genart/3.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/genart/4.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/genart/5.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/genart/6.png" alt="Image" class="img-fluid" class="img-fluid">
+
+          </div>
+          <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
+            <h3>Genart</h3>
+            <p class="mb-4">Humans have the ability to create great art through a complex interplay between content and style of an image. However, there is many non tested algorithmic way of doing it. Here I wanted to explore and compare various interesting algorithmic way of doing so. </p>
+            <p class="mb-5"><strong class="text-black">Tech Used: </strong> Python, Flask, Machine Learning, Javascript</p>
+            <blockquote class="blockquote">
+              <p>The developed application can be used as a tool for generating artworks resembling to the styles of famous artists, whereas the study will help in how the human brain interprets artistic imagery. Customizing it to be a third party api can provide a service for various camer based application for applying filters. </p>
+            </blockquote>
+            <p class="mb-4"><a href="https://github.com/SudhanshuMishra8826/Genart" class="readmore">View code</a></p>
+            <p class="mb-4"><a href="https://pdfhost.io/v/bC3~5H77f_Style_Transfer_on_Images4pdf.pdf" class="readmore">Presentation</a></p>
+
+          </div>
+        </div>
+
+        <div class="row mb-5">
+          <div class="col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
+            <img src="images/blogger/1.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/2.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/3.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/4.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/5.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/6.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/7.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/8.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/9.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/10.png" alt="Image" class="img-fluid" class="img-fluid">
+            <img src="images/blogger/11.png" alt="Image" class="img-fluid" class="img-fluid">
+
+          </div>
+          <div class="col-lg-5 h-100 jm-sticky-top mr-auto order-2 order-lg-1">
+            <h3>Blogger</h3>
+            <p class="mb-4">Blogger is a website for people who have an opinion that they want to share with other people of familiar interests, the website mainly has two modules that are categorized on the basis of types of users.
+              The website serves different pages to different types of users based on their access level.</p>
+            <p class="mb-5"><strong class="text-black">Tech. Used : “</strong>“HTML”, “CSS”, “Bootstrap”, “Js”, “Jquery”, “Ajax”, “PHP”, “Mysql”.</p>
+            <blockquote class="blockquote">
+              <p>Someplace where you can write
+                </p>
+            </blockquote>
+            <p class="mb-4"><a href="https://github.com/SudhanshuMishra8826/Blogger" class="readmore">View Code</a></p>
+            <p class="mb-4"><a href="https://as990765.000webhostapp.com/" class="readmore">Live Demo</a></p>
+
+            
+            
+          </div>
+        </div>
+
         <div class="row mb-5">
           <div class="col-lg-6 mb-4 mb-lg-0">
             <img src="images/god's eye/Screenshot from 2019-04-30 09-27-30.png" alt="Image" class="img-fluid" class="img-fluid">
@@ -233,14 +297,14 @@
             <blockquote class="blockquote">
               <p>He is the person you can approach when you want to get some problem solved efficiently and at a relatively faster speed. His problem solving skills are really amazing.</p>
               <p  class="mb-0 d-flex align-items-center">
-                <cite>&mdash; <a href="https://www.linkedi.com/in/sudhanshumishra8826/">Sudhanshu Mishra, Project Coordinator at FIG-Focus India Group</a></cite>
+                <cite>&mdash; <a href="https://www.linkedin.com/in/sudhanshumishra8826/">Sudhanshu Mishra, Project Coordinator at FIG-Focus India Group</a></cite>
               </p>
             </blockquote>
           </div>
       
           <div class="col-lg-6">
             <blockquote class="blockquote">
-              <p>Deepak is a swift learner, self-driven, and does his work very sincerely.He is the guy who beleives more on process than results..</p>
+              <p>Sudhanshu is a swift learner, self-driven, and does his work very sincerely.</p>
               <p class="mb-0 d-flex align-items-center">
                 <cite>&mdash;<a href="https://www.linkedin.com/in/harsh-bidhuri-142495189/">Harsh Bidhuri, Associate Subject Matter Expert at ByteDance</a></cite>
               </p>
